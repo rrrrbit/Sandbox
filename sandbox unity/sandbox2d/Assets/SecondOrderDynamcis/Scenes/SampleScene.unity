@@ -371,8 +371,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   naturalFrequency: 4
-  damping: 0.5
+  damping: 0.4
   response: 1
+  naturalFrequencyLast: 0
+  dampingLast: 0
+  responseLast: 0
 --- !u!212 &1674285756
 SpriteRenderer:
   m_ObjectHideFlags: 0
