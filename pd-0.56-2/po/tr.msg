@@ -1,0 +1,2 @@
+set ::msgcat::header "Project-Id-Version: Pure Data 0.53.1\nReport-Msgid-Bugs-To: pd-dev@iem.at\nPO-Revision-Date: 2023-02-19 20:36+0000\nLast-Translator: Alex Nadzharov <anadjarov@gmail.com>\nLanguage-Team: Turkish <https://hosted.weblate.org/projects/pure-data/pure-data/tr/>\nLanguage: tr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.16-dev\n"
+::msgcat::mcset tr "OK" "Tamam"
