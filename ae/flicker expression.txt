@@ -1,0 +1,9 @@
+if(effect("Flicker - Enable")("Checkbox") == 1){
+	var delay = effect("Flicker - Delay")("Slider");
+	var freq = effect("Flicker - Frequency")("Slider");
+
+	valueAtTime(time - delay * Math.round((time * freq) % 1));
+}
+else{
+	value;
+}

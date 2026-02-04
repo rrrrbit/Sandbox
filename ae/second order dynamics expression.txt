@@ -1,0 +1,44 @@
+if(effect("SOD - Enable")("Checkbox") == 1){
+	// Second Order Dynamics for AE
+	// Apply to any property
+
+	var f = effect("SOD - NatFreq")("Slider");    // frequency
+	var z = effect("SOD - Damp")("Slider");  // damping  
+	var r = effect("SOD - Response")("Slider");    // response
+
+	var k1 = z / (Math.PI * f);
+	var k2 = 1/(4*Math.PI*f*Math.PI*f);
+	var k3 = r*z/(2*Math.PI*f);
+
+	var dt = thisComp.frameDuration;
+	var t = time;
+
+	// initialize
+	var xp = valueAtTime(0);
+	var y = valueAtTime(0);
+	var yd = 0;
+
+	// iterate through time
+	var steps = Math.floor(t / dt);
+	for(var i = 0; i < steps; i++) {
+		var t_step = i * dt;
+		var x = valueAtTime(t_step);
+		
+		// estimate velocity
+		var xd = (x - xp) / dt;
+		
+		// stability
+		var k2s = Math.max(k2, 
+			dt*dt/2 + dt*k1/2, dt*k1);
+		
+		// integrate
+		y += dt * yd;
+		yd += dt*(x + k3*xd - y - k1*yd)/k2s;
+		
+		xp = x;
+	}
+	y;
+}
+else{
+	value;
+}
