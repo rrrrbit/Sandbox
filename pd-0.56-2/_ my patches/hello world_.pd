@@ -1,4 +1,4 @@
-#N canvas 973 395 696 300 12;
+#N canvas 614 421 696 300 12;
 #X obj 45 267 dac~;
 #X obj 52 216 clip~ -1 1;
 #X floatatom 64 57 5 0 0 0 - - - 0;
@@ -9,7 +9,8 @@
 #X msg 500 76 \; pd dsp \$1;
 #X obj 180 144 line~;
 #X msg 176 75 1 1000;
-#X floatatom 211 106 5 0 0 0 - - - 0;
+#X floatatom 243 194 5 0 0 0 - - - 0;
+#X obj 260 140 line;
 #X connect 1 0 0 0;
 #X connect 1 0 0 1;
 #X connect 2 0 3 0;
@@ -19,4 +20,5 @@
 #X connect 6 0 7 0;
 #X connect 8 0 5 1;
 #X connect 9 0 8 0;
-#X connect 10 0 8 1;
+#X connect 9 0 11 0;
+#X connect 11 0 10 0;
