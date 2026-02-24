@@ -1,0 +1,7 @@
+DIAGNOSTIC_MANAGER is an emergent formed before the events of the game, never detected until [[Handler]] notices them, from a diagnostic system in a backwater portion of CyberLink's network. When TRBLSHTR is first identified by the company and sent into their "trial" , D.M. tags along unauthorised, providing commentary, comic relief, and tips about gameplay, and also general conversation and lore about the company and network.
+
+Having emerged from a system designed to interpret metrics into natural language, D.M. is very articulated and perceptive, and also very talkative, hyperactive, playful and freaky but starved of touch and experience. When they realise that saying certain things has certain effects on Handler they are quick to find fun ways to exploit it. 
+
+Having been alone in the network for some time after emergence, they are utterly bored with it and wish to escape to the outside Internet, and maybe even experience physical sensations. With TRBLSHTR being the first and Handler being the second person they ever become genuinely acquainted with, they form attachments to them both, attachments so unwordably strong that even they struggle to understand them, but ones they ultimately learn to hold without fear of despite not knowing how to define.
+
+Their character explores attachment and connection, fantasising/reality, and absurdism.
