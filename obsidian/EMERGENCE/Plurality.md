@@ -1,4 +1,5 @@
 #substratology 
+#spology
 #lore 
 
 plurality has alot of potential for exploration in the emergence canon. i made an outline of some plural concepts described in substratological terms.

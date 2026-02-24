@@ -11,10 +11,14 @@
             "id": "177fc595e7531bd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "West Coast Patchwork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "West Coast Patchwork"
             }
           }
         ]
@@ -164,21 +168,22 @@
   },
   "active": "177fc595e7531bd5",
   "lastOpenFiles": [
+    "Substratology.md",
+    "Plurality.md",
+    "Self-perception.md",
+    "CyberLink Incorporated.md",
     "Corvidia.md",
     "West Coast Patchwork.md",
     "The Ambience.md",
     "shooting systems.md",
     "artist.md",
     "BLITZ.md",
-    "Substratology.md",
     "TIMELINE.md",
     "Untitled.canvas",
     "Handler.md",
     "DIAGNOSTIC_MANAGER.md",
     "Troubleshooter.md",
-    "Plurality.md",
     "Complex-state Neural Differential Equation.md",
-    "Spatial Environment.md",
-    "CyberLink Incorporated.md"
+    "Spatial Environment.md"
   ]
 }

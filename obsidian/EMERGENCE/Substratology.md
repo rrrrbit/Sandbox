@@ -1,3 +1,4 @@
+#substratology #lore
 Substratology is the study of the structures and dynamics of consciousness-viable substrates, a generalisation of neuroscience. (See also: phenomenology as the study of subjective experiences, and substratophenomenology (colloquially spology) as the study of idiosyncratic correlations between subjective experience and substrate dynamics.)
 
 Below is an outline of some substratological concepts.
