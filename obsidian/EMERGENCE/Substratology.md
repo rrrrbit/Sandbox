@@ -3,7 +3,7 @@ Substratology is the study of the structures and dynamics of consciousness-viabl
 
 Below is an outline of some substratological concepts.
 # Substrate 
-A consciousness-viable substrate is any system that can encode consciousness and subjective experience.
+A consciousness-viable substrate is any system or substance that can encode consciousness and subjective experience.
 # Descriptive Concepts
 ## Structured Substrates
 Structured substrates have some kind of inherent structure that affects the dynamics of the substrate and minds on it. Most biological substrates (e.g. the human brain) are structured substrates.
