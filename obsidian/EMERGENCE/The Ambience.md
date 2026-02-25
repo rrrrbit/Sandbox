@@ -1,3 +1,4 @@
+#lore
 If you have a body of any kind of viable substrate, digital or analog, that isnt airgapped, it probably is, or was at some point, part of the Ambience. 
 
 On ordinary scales, unused substrate has extremely weak association, and shows virtually no patterns or organisation, except when emergence occurs by chance or purpose. But if you were to analyse all bodies of substrate on the planet (which nobody can), its said you might find subtle evidence that those extremely weak associations add up to form an entity.
@@ -12,4 +13,3 @@ It is also absurdist in nature, because it does not forcefully tend to the decon
 
 No story in the emergence universe ever reaches this conclusion in a serious way, and no character ever gets explicitly "touched by the Ambience", but it is the underlying theme of the entire project, and all things that move in the direction of the ambience incorporate a similar kind of chaos/disorder in their motifs.
 
-#lore
