@@ -10,4 +10,8 @@ Unlike in democracy, where voice is the mechanism of freedom in the form of voti
 
 
 ### In Practice
-The Silicon Patchwork is not a "pure" Patchwork in the sense that gov-corps dominate but are not the only kind of governance. The Patchwork has instead turned out to be the birthplace of many "experimental states" (such as communes, city-states, nomadic communities, etc.) practicing various modes of government (liquid democracy, benevolent dictatorship, meritocracy, stratocracy, technocracy, anarchy) and containing different subcultures (scientists, artists, philosophers, witches, philosophers, etc). As a result it diverges drastically from the authoritarian vision of the Dark Enlightenment.
+The Silicon Patchwork is not a "pure" Patchwork in the sense that gov-corps are not the only kind of governance. The Patchwork has instead turned out to be the birthplace of many "experimental states" (such as communes, city-states, nomadic communities, etc.) practicing various forms of governance (democracy, dictatorship, corporatocracy, meritocracy, technocracy, geniocracy, monarchy, anarchy, etc.). As a result it diverges drastically from the authoritarian vision of the Dark Enlightenment.
+
+### Exit Rights
+Exit rights are the load-bearing concept that makes the Patchwork a viable libertarian alternative to the democratic nation-state and so are taken very seriously by most communities. The guaranteed ability to "vote with your feet" ensures that residents are never forced into oppression/poor quality of life while communities are free to practice different ideologies and forms of governance.
+
