@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Silicon Patchwork.md",
+                "file": "TIMELINE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silicon Patchwork"
+              "title": "TIMELINE"
             }
           }
         ]
@@ -168,6 +168,10 @@
   },
   "active": "177fc595e7531bd5",
   "lastOpenFiles": [
+    "TRBLSHOT.md",
+    "CyberLink Incorporated.md",
+    "Neurospace.md",
+    "BLITZ.md",
     "Silicon Patchwork.md",
     "Pasted image 20260225151443.png",
     "Corvidia.md",
@@ -181,10 +185,8 @@
     "Ticker Protocol.md",
     "Abstract Substrate.md",
     "Self-perception.md",
-    "CyberLink Incorporated.md",
     "shooting systems.md",
     "artist.md",
-    "BLITZ.md",
     "Untitled.canvas",
     "Troubleshooter.md",
     "Spatial Environment.md"

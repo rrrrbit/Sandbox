@@ -16,13 +16,13 @@ no precise dates are given in the EMERGENCE canon. events dont necessarily lead 
 -Emergent Spring
 › est. of Corvidia
 	(utopian cooperationist microstate in Rhine-Main-Neckar)
-	(meanwhile) >formation of the West Coast Patchwork (WCP)
+	(meanwhile) >formation of the Silicon Patchwork
 (A fractured collection of sovereign NRx-esque micropolities governed by silicon valley corpos who militarized to protect themselves on the physical front during the Emergent Spring. wildly varying attitudes to emergents)
 
 -West Corvidia secedes
 
 -events of Neurospace
-(An anthropocentrist political voice in the WCP is the victim of a neurotech attack that traps their perception in a spatial representation of their own mind and identity. With an emergent guiding them as a good samaritan, they must navigate (literally) through their neurospace, reckoning with the most buried parts of their own psyche.)
+(An anthropocentrist politico in the Silicon Patchwork is the victim of a neurotech attack that traps their perception in a spatial representation of their own mind and identity. With an emergent guiding them as a good samaritan, they must navigate (literally) through their neurospace, reckoning with the most buried parts of their own psyche.)
 
 -events of BLITZ
 (An unidentified entity singlehandedly launches a full-scale cyberattack on West Corvidia's totalitarian surveillance network)
