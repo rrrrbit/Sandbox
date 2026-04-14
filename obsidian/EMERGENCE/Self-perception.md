@@ -1,3 +1,3 @@
 Self-perception is when an individual percieves a detailed, realtime or close to realtime representation of their own self-state, or otherwise takes their own self-state as an input. Self-perception has wildly varying effects that depend on whether a positive feedback loop occurs and its extremeness, from nothing at all, light confusion, to severe neural trauma or total dissolution.
 
-#lore #spology
+#lore #spology #stub

@@ -1,3 +1,7 @@
+#trblshot 
+#mechanics 
+#stub
+
 Dashing is a movement mechanic in TRBLSHT. The default keybind to dash is shift.
 
 ## Dash techs
@@ -13,5 +17,3 @@ Hold the dash key after the dash period to keep most of the gained momentum.
 #### Dash Bounce (D-Bounce)
 If you hit a wall, floor or ceiling during the dash period you will bounce off of it and keep momentum.
 
-#trblshot 
-#mechanics

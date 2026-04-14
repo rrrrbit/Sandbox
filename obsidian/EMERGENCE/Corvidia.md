@@ -1,1 +1,1 @@
-#lore #geopolitics 
+#lore #geopolitics #stub 

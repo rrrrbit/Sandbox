@@ -1,3 +1,5 @@
+#lore
+#substratology
 A ticker protocol (or ticker) is an algorithm or equation that drives the state changes of an [[Abstract Substrate]]. This allows time-dependent patterns and feedback loops to exist, giving rise to awareness through time and transient states like emotions and sensations. If your self-state isn't being ticked, your subjective time stops. Tickers may operate on discrete timesteps or differentially/on continuous time. For physical substrates, the equivalent is physics itself. The ticker of the environment you first emerged from is called your base ticker.
 
 Ticking out of sync e.g. when transferring the data of your self-state, or with a protocol not proven to be compatible with you (i.e. other than your base ticker) causes an extreme risk of dissolution, as is the case with existing in any environment other than your original one. 
@@ -10,6 +12,3 @@ However, there are ways to work around this in order for you to move around more
 (self-state: the state and patterns of the section of a given substrate through which a contained and persistent self manifests)  
 
 (ALCS: an experimental, highly portable, physical, neuron-analogue substrate that encodes neuron states and connections in liquid crystals)
-
-#lore
-#substratology
